@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Web Development Bootcamp",
+    "instructorName": "John Smith",
+    "instructorEmail":"Johnsmith@gmail.com",
+    "instructorImage": "https://i.ibb.co/CzC5mJP/pngwing-com-7.png",
+    "image": "https://i.ibb.co/wY26qbZ/Programming-Course-for-Kids.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 144,
+    "ratting":5
+  },
+  {
+    "name": "Full Stack Web Development",
+    "instructorName": "Emily Johnson",
+    "instructorEmail":"emilyjohnson@gmail.com",
+    "instructorImage": "https://i.ibb.co/GnDsX4K/pngwing-com-6.png",
+    "image": "https://i.ibb.co/LzLLmRn/intro-to-programming-course.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 153,
+    "ratting":4.3
+  },
+  {
+    "name": "Front-End Development",
+    "instructorName": "David Brown",
+    "instructorEmail":"davidbrown@gmail.com",
+    "instructorImage": "https://i.ibb.co/Vg5wSSV/pngwing-com-5.png",
+    "image": "https://i.ibb.co/K6xQXRP/4884785.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 239,
+    "ratting":5
+  },
+  {
+    "name": "Advanced English Speaking Course",
+    "instructorName": "Sarah Thompson",
+    "instructorEmail":"thompson@gmail.com",
+    "instructorImage": "https://i.ibb.co/KL9qXxj/pngwing-com-4.png",
+    "image": "https://i.ibb.co/hL9vksK/programming8.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 300,
+    "ratting":4.3
+  },
+  {
+    "name": "Introduction to Web Development",
+    "instructorName": "Laura Garcia",
+    "instructorEmail":"garcia@gmail.com",
+    "instructorImage": "https://i.ibb.co/SwTLm1D/pngwing-com-3.png",
+    "image": "https://i.ibb.co/M98yZfT/2842680.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price":239,
+    "ratting":4.9
+  },
+  {
+    "name": "Web Development Master",
+    "instructorName": "Michael Davis",
+    "instructorEmail":"micaldavis2@gmail.com",
+    "instructorImage": "https://i.ibb.co/CscsgPx/pngwing-com-2.png",
+    "image": "https://i.ibb.co/wc7pZmZ/2592285.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 259,
+    "ratting":4.5
+  },
+  {
+    "name": "Joiner web development ",
+    "instructorName": "Jennifer Anderson",
+    "instructorEmail":"anderson@gmail.com",
+    "instructorImage": "https://i.ibb.co/7YhSGQB/pngwing-com.png",
+    "image": "https://i.ibb.co/4dkw3wh/Na-Nov-02.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 198,
+    "ratting":4.2
+  },
+  {
+    "name": "MERN Web Development",
+    "instructorName": "Matthew Taylor",
+    "instructorEmail":"matthwwtaylor@gmail.com",
+    "instructorImage": "https://i.ibb.co/j4H1Tk9/pngwing-com-1.png",
+    "image": "https://i.ibb.co/Jrcr1t3/person-front-computer-working-html.jpg",
+    "availableSits": 20,
+    "enrolStudent": 20,
+    "price": 295,
+    "ratting":5
+  }
+]
